@@ -248,10 +248,4 @@ MIT License - see LICENSE file for details
 
 Built with ❤️ for data-driven business optimization
 
-## 📞 Support
 
-For issues and questions, please open a GitHub issue.
-
----
-
-**Last Updated**: October 2025
