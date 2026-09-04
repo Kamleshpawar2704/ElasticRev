@@ -1,0 +1,41 @@
+pandas
+numpy
+
+# Web Framework
+Flask
+Flask-CORS
+Flask-SQLAlchemy
+
+# Database
+SQLAlchemy
+psycopg2-binary
+
+# WSGI Server
+gunicorn
+
+# Machine Learning
+scikit-learn
+scipy
+statsmodels
+
+# Excel Processing
+openpyxl
+xlsxwriter
+
+# API & Utilities
+python-dotenv
+Werkzeug
+
+# Date/Time
+python-dateutil
+
+# Validation
+marshmallow
+
+# Plotting (for backend analysis)
+matplotlib
+seaborn
+
+# Testing (optional)
+pytest
+pytest-flask
